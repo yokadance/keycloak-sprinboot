@@ -1,5 +1,5 @@
 
-# keycloak-sprinboot
+# keycloak-springboot
 
 
 Se tiene que configurar en el application properties la data de conexion al servidor de keycloak. En este caso yo estaba accediendo a un server virtualizado. 
